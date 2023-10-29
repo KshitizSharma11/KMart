@@ -1,0 +1,111 @@
+{
+    "products": {
+      "product1": {
+        "name": "16Gb Pendrive",
+        "description": "This is an amazing flash drive by disk san.",
+        "price": 369,
+        "category": "Electronics",
+        "photo": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQj0tSMvFC67lEM_YKrwyDkyvBQUhqHRtWqIclqfMiAwTXA3RFs8vQQ3R6cGaGfw_Icuv_xRdUa2NHyTVZamCpEzyGOm_7-2GwaS1T7kwDSDCL-cUYWdgFpqA0iALNMInoWorfr8g4&usqp=CAc"
+      },
+      "product2": {
+        "name": "MackBook Hawa",
+        "description": "This is sold Exclusively on KMart.",
+        "price": 100000,
+        "category": "Electronics",
+        "photo": "https://m.media-amazon.com/images/I/71jG+e7roXL._SX679_.jpg"
+      },
+      "product3": {
+        "name": "K-Phone 11",
+        "description": "This is sold Exclusively on KMart.",
+        "price": 69999,
+        "category": "Electronics",
+        "photo": "https://m.media-amazon.com/images/I/31tyUh1todL._SY445_SX342_QL70_FMwebp_.jpg"
+      },
+      "product4": {
+        "name": "Shiro relay 21 speed cycle",
+        "description": "shiro ki kya baat hai Maa Durga iske sath hai",
+        "price": 6999,
+        "category": "Kids",
+        "photo": "https://s3.ap-south-1.amazonaws.com/choosemybicycle.webp/images/bicycles/montra-chord-2022.webp"
+      }, 
+      "product5": {
+        "name": "Jerry She'llfiger",
+        "description": "gold watch with golden hands, golden strap, golden dial suggested and owned by technical guruji",
+        "price": 80000,
+        "category": "Men",
+        "photo": "https://m.media-amazon.com/images/I/A1HTssBOo8L._SY679_.jpg"
+      },
+      "product6": {
+        "name": "Pucci",
+        "description": "Amazing bag for those who Identify As a Woman",
+        "price": 9999,
+        "category": "Women",
+        "photo": "https://m.media-amazon.com/images/I/91igzfztBcL._SY695_.jpg"
+    },
+      "product7": {
+        "name": "Kiska LED",
+        "description": "Multicolor multipurpose LED with all LGBTQ+ flag color options",
+        "price": 800,
+        "category": "Home-Decor",
+        "photo": "https://rukminim2.flixcart.com/image/832/832/kjn6qvk0-0/smart-lighting/d/j/l/12-color-changing-led-light-music-bulb-with-bluetooth-speaker-original-imafz5v9kmfsspvs.jpeg?q=70"
+      },
+      "product8": {
+        "name": "Blue Taufa",
+        "description": "You can jump on it as much as u can and can even try backflip",
+        "price": 80000,
+        "category": "Home-Decor",
+        "photo": "https://m.media-amazon.com/images/I/51ozmHStfeL._SX300_SY300_QL70_FMwebp_.jpg"
+      },
+      "product9": {
+        "name": "Bleach Anime Poster",
+        "description": "Aizen is the goat.",
+        "price": 400,
+        "category": "Home-Decor",
+        "photo": "https://m.media-amazon.com/images/I/51IbEgWGK0L._AC_UF894,1000_QL80_.jpg"
+      },
+      "product10": {
+        "name": "Almond Tuxedo",
+        "description": "Class never goes out of style made of pure silk.",
+        "price": 16000,
+        "category": "Men",
+        "photo": "https://m.media-amazon.com/images/I/91+1wPJR0hL._SX569_.jpg"
+      },
+      "product11": {
+        "name": "Below The Belt",
+        "description": "Made of leather so pure that it can be used for domestic violence as well",
+        "price": 1600,
+        "category": "Men",
+        "photo": "https://m.media-amazon.com/images/I/71RSNT-2WCL._SX679_.jpg"
+      },
+      "product12": {
+        "name": "Bodycorn Dress",
+        "description": "Go Vegan have corn",
+        "price": 1900,
+        "category": "Women",
+        "photo": "https://i.etsystatic.com/19727766/r/il/b49d5b/4042959370/il_fullxfull.4042959370_f0ye.jpg"
+      },
+      "product13": {
+        "name": "High On Complan Heels",
+        "description": "Try Complan instead to increase height",
+        "price": 1200,
+        "category": "Women",
+        "photo": "https://londonrag.in/cdn/shop/products/RCSH2682_Burgundy_1_1800x1800.jpg?v=1692441136"
+      },
+      "product14": {
+        "name": "Spider-Man Action Figure",
+        "description": "plastic build can withstand and stop an entire train without breaks",
+        "price": 300,
+        "category": "Kids",
+        "photo": "https://m.media-amazon.com/images/I/71xduMfd27L._SX679_.jpg"
+      },
+      "product15": {
+        "name": "Kaisi Ho Keyboard",
+        "description": "Musical instrument best paired with gyan's song",
+        "price": 3000,
+        "category": "Kids",
+        "photo": "https://m.media-amazon.com/images/I/414cbdXIvmL._SX300_SY300_QL70_FMwebp_.jpg"
+      }
+      
+
+    }
+  }
